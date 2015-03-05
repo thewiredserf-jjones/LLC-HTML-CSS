@@ -4,6 +4,4 @@ Updated by Heather Payne and Tessa Thornton for June 2013 Workshop in Toronto. F
 
 **Workshop attendees**: click the "zip" download button above. Open `index.html` to view the slides in your browser. Project files can be found in the /Project folder.
 
-## Instructors and Contributors:
-
-If you would like to modify or make a custom version of these slides, please view [contribution guidelines](https://github.com/ladieslearningcode/LLC-HTML-CSS/blob/master/contributing.md)
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
